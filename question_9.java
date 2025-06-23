@@ -1,5 +1,4 @@
 import java.util.*;
-import javax.sound.sampled.SourceDataLine;
 public class question_9 {
     public static void main(String[] args) {
         int a;

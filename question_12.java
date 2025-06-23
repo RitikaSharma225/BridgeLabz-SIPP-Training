@@ -34,6 +34,3 @@ public class question_12 {
         System.out.println("The result is: " + result);
     }
 }
-
-    
-}

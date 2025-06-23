@@ -24,13 +24,11 @@ public class calculator {
                     result = a / b;
                 } else {
                     System.out.println("Cannot divide by zero");
-                    sc.close();
                     return;
                 }
                 break;
             default:
                 System.out.println("Invalid operator");
-                sc.close();
                 return;
         }
         System.out.println("The result is: " + result);

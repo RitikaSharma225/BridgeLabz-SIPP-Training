@@ -1,4 +1,3 @@
-import java.util.*;
 public class queston_1 {
     public static void main(String args[]){
         float n=10.8f;

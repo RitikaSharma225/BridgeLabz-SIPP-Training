@@ -1,4 +1,3 @@
-import java.util.*;
 public class question_5 {
     public static void main(String[] args) {
         int fee=12500;
